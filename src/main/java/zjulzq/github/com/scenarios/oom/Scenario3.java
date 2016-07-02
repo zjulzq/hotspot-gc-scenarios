@@ -1,4 +1,4 @@
-package zjulzq.github.com.scenario3;
+package zjulzq.github.com.scenarios.oom;
 
 /**
  * Creating too many threads.

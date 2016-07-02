@@ -1,4 +1,4 @@
-package zjulzq.github.com.scenario1;
+package zjulzq.github.com.scenarios.oom;
 
 /**
  * 
