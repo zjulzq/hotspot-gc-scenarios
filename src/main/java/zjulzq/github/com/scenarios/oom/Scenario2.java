@@ -1,4 +1,4 @@
-package zjulzq.github.com.scenario2;
+package zjulzq.github.com.scenarios.oom;
 
 /**
  * Creating big objects. 

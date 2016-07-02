@@ -1,4 +1,4 @@
-package zjulzq.github.com.scenario5;
+package zjulzq.github.com.scenarios.oom;
 
 import java.lang.reflect.Field;
 
